@@ -1,7 +1,5 @@
 import React,{useState} from 'react'
 
-
-
 import Textform from './components/Formtext';
 import Navbar from './components/Navbar'
 import About from './components/About'
